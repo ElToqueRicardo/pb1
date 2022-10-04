@@ -4,3 +4,9 @@ body{
 .intro{
   text-align: center;
 }
+
+.donaciones{
+  font-size: 1.5rem;
+  color: rgb(64, 75, 68);
+  border: 1px solid green;
+}
