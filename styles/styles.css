@@ -5,8 +5,26 @@ body{
   text-align: center;
 }
 
-.donaciones{
+
+.for-h1{
+  font-size: 4rem;
+  
+}
+
+.for-h2{
+  font-size: 3rem;
+}
+
+
+.for-divs{
   font-size: 1.5rem;
   color: rgb(64, 75, 68);
-  border: 1px solid green;
+  border: 0.0625rem solid green;
+  margin-top: 1rem;
+}
+.for-img{
+  max-width: 5rem; 
+  float: left;
+  margin-left:15px
+
 }
