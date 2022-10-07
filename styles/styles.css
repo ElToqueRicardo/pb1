@@ -1,6 +1,9 @@
 body{
   background-color: aqua;
 }
+p{
+  font-size: 1.5rem;
+}
 .intro{
   text-align: center;
 }
@@ -8,11 +11,13 @@ body{
 
 .for-h1{
   font-size: 4rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   
 }
 
 .for-h2{
   font-size: 3rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
